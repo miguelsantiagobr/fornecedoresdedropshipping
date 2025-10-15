@@ -1,6 +1,6 @@
 # 🔗 Fornecedores de Dropshipping
 
-Este repositório contém o código-fonte do site **"<a href"=https://fornecedoresdedropshipping.com.br/">Fornecedores de Dropshipping</a>"**, um guia completo para quem busca os melhores fornecedores e cursos para iniciar ou expandir um negócio de dropshipping, focado nos mercados nacional e internacional.
+Este repositório contém o código-fonte do site <a href="https://fornecedoresdedropshipping.com.br/">Fornecedores de Dropshipping</a>, um guia completo para quem busca os melhores fornecedores e cursos para iniciar ou expandir um negócio de dropshipping, focado nos mercados nacional e internacional.
 
 O design foi reestruturado para melhor legibilidade e organização, separando o estilo em um arquivo dedicado (`style.css`), mantendo a funcionalidade original.
 
